@@ -1,11 +1,11 @@
-# 📊 Portalyze
+# Portalyze
 
 Portalyze is a stock and cryptocurrency portfolio tracker that helps users monitor asset performance, visualize portfolio trends, and receive real-time alerts.
 
 ## Tech Stack
 
 - **Frontend:** SvelteKit
-- **Backend:** Python (FastAPI or Flask)
+- **Backend:** Python (FastAPI)
 - **APIs:** Yahoo Finance, CoinGecko
 
 ## Features
@@ -13,3 +13,5 @@ Portalyze is a stock and cryptocurrency portfolio tracker that helps users monit
 - Track stocks and cryptocurrencies
 - Visualize portfolio allocation and performance
 - Set price alerts for assets
+
+Please note: This is an early-stage project; features and documentation will expand as development progresses.
